@@ -1,6 +1,5 @@
 import React from 'react'
-import { FaBriefcase, FaUserTie, FaWarehouse } from 'react-icons/fa'
-import { MdOutlineAttachMoney } from 'react-icons/md'
+
 import { dashBoardWidgets } from '../constants/Data'
 
 import Pie from '../components/Pie'

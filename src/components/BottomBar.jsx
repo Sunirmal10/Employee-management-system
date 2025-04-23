@@ -1,5 +1,5 @@
 import React from 'react'
-import { MdDashboard } from 'react-icons/md'
+
 import { sidebarItems } from '../constants/Data.jsx'
 import { NavLink } from 'react-router-dom'
 

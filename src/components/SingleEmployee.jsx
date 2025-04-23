@@ -3,8 +3,6 @@ import { IoClose } from "react-icons/io5";
 import {
   MdDeleteOutline,
   MdModeEditOutline,
-  MdOutlineFavorite,
-  MdOutlineFavoriteBorder,
 } from "react-icons/md";
 import { useDispatch, useSelector } from "react-redux";
 import { Link } from "react-router-dom";
