@@ -1,3 +1,5 @@
+# 🌟 EMS: Employee Management System
+---
 
 ## 🚀 About the Project
 ---
