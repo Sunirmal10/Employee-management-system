@@ -75,7 +75,7 @@ If you'd like to connect or learn more about me, feel free to reach out!
 
 🌐 Portfolio: [sunirmal-das-portfolio.vercel.app](https://sunirmal-das-portfolio.vercel.app/)
 
-💼 LinkedIn:[ Sunirmal Das](https://www.linkedin.com/in/sunirmal-d-a420a4205/)
+💼 LinkedIn:[ Sunirmal Das](www.linkedin.com/in/sdofficial008)
 
 ---
 
